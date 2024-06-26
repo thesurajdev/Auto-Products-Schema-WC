@@ -1,0 +1,1 @@
+# Auto-Products-Schema-WC

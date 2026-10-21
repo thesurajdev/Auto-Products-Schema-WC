@@ -75,4 +75,4 @@ Issues and pull requests are welcome. If you open a bug, include the product typ
 
 ## License
 
-No license file yet. Add one (GPL-2.0-or-later is the WordPress standard) before others reuse the code.
+GPL-2.0-or-later, the standard license for WordPress plugins. See [LICENSE](LICENSE).
